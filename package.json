@@ -1,0 +1,24 @@
+{
+  "name": "todo-backend-app",
+  "version": "1.0.0",
+  "description": "Todo Backend App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasurahul/todo-backend-app.git"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasurahul/todo-backend-app/issues"
+  },
+  "homepage": "https://github.com/dasurahul/todo-backend-app#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2",
+    "nodemon": "^2.0.16"
+  }
+}
